@@ -1,1 +1,32 @@
+# Python environment
+venv/
 .venv/
+env/
+.env/
+
+# Compiled bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset files (if large or sensitive)
+*.csv
+*.tsv
+*.parquet
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Other temporary/generated files
+*.log
+*.tmp
+*.bak
