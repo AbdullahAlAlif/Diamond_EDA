@@ -4,7 +4,7 @@ It's my first EDA Task from Session 9 of
 
 ## Introduction
 
-![pic1](pic1.png) <!-- Replace pic1.png with the actual image file name -->
+![pic1](pic1.png)
 
 **Statement of Purpose:**
 
@@ -12,8 +12,8 @@ This project aims to perform an exploratory data analysis on the Diamonds datase
 
 ## Visualizations
 
-![pic2](pic2.png) <!-- Replace pic2.png with the actual image file name -->
-![pic3](pic3.png) <!-- Replace pic3.png with the actual image file name -->
+![pic2](pic2.png)
+
 
 
 ## Analysis Headlines
